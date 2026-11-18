@@ -1,6 +1,6 @@
 # RELEASE STATUS
 
-Built 2026-11-17 18:17 by `hb.build_release` with Python 3.14.3 on Windows 11.
+Built 2026-11-17 18:33 by `hb.build_release` with Python 3.14.3 on Windows 11.
 
 **Automated verification: PASSED.** All checks below passed in the environment that built the release.
 

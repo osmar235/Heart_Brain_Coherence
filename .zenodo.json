@@ -8,7 +8,7 @@
       "affiliation": "Department of Kinesiology, California State University San Marcos"
     }
   ],
-  "description": "<p>Analysis code, result tables and figures of the study \"One Dataset, Three Verdicts: Why Positive and Negative Controls Matter for Brain and Heart Coherence\" (manuscript in preparation, not peer reviewed). The study reanalyzes electrocardiography and EEG from 122 adults performing an adaptive digit span task (OpenNeuro ds008302) and tests slow wavelet coherence between heart period and EEG amplitude envelopes with negative controls (synthetic participants without coupling, surrogate nulls, artifact controls) and positive controls (planted coupling).</p><p>Code: MIT license. Manuscript, documents, result tables and figures: CC BY 4.0. The raw recordings are not included.</p>",
+  "description": "<p>Analysis code, result tables and figures of the study \"One Dataset, Three Verdicts: Why Positive and Negative Controls Matter for Brain–Heart Coherence\" (manuscript in preparation, not peer reviewed). The study reanalyzes electrocardiography and EEG from 122 adults performing an adaptive digit span task (OpenNeuro ds008302) and tests slow wavelet coherence between heart period and EEG amplitude envelopes with negative controls (synthetic participants without coupling, surrogate nulls, artifact controls) and positive controls (planted coupling).</p><p>Code: MIT license. Manuscript, documents, result tables and figures: CC BY 4.0. The raw recordings are not included.</p>",
   "license": "mit",
   "keywords": [
     "wavelet coherence",

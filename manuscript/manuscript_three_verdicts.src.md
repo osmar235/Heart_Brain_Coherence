@@ -1,4 +1,4 @@
-# One Dataset, Three Verdicts: Why Positive and Negative Controls Matter for Brain and Heart Coherence
+# One Dataset, Three Verdicts: Why Positive and Negative Controls Matter for Brain–Heart Coherence
 
 **Author:** Osmar Pinto Neto¹,*
 
@@ -6,7 +6,7 @@
 
 *Corresponding author:* Osmar Pinto Neto (osmar@csusm.edu).
 
-**Draft status:** version 3.1, 2026-11-17. Framework approved by O.P.N. (decision D-019); authorship decision D-021. All numbers come from the result tables listed in the results index of the code release.
+**Draft status:** version 3.2, 2026-11-17, prepared for PNAS Nexus (decision D-024). Framework approved by O.P.N. (decision D-019); authorship decision D-021. All numbers come from the result tables listed in the results index of the code release.
 
 ## Abstract
 
@@ -110,6 +110,10 @@ Table 1 lists the analysis stages. Each plan was written before its stage was ru
 ### Reproducibility
 
 The cohort analyses ran in Python 3.14.3 (NumPy 2.4.3, SciPy 1.17.1, MNE 1.13.2, mne-icalabel 0.10.0, python-picard 0.8.2) on Windows 11. The wavelet functions were vendored unmodified from the EMG framework with their checksum. Every random step used a fixed seed per participant and surrogate. The pipeline has {{NTESTS}} automated tests on synthetic signals. Each step is a numbered script that writes its tables and a dated log, and every run is recorded in an execution log.
+
+### Use of generative AI
+
+Claude (Anthropic; Claude Opus 5.5 **\[and earlier Claude Opus versions used in the project, to confirm]**) was used to write and test the analysis code, design the simulations, write the figure scripts, and draft and edit the manuscript text. ChatGPT (OpenAI; **\[model and version to confirm]**) was used to review the manuscript. All uses were directed by the author, who checked the code outputs, analyses, references and claims and takes responsibility for the content. The figures were drawn by the analysis scripts from the result tables; no AI image generator was used.
 
 ## Results
 
@@ -227,11 +231,11 @@ One dataset supported three successive readings of slow coherence between heart 
 
 ## Data and code availability
 
-The recordings are public under CC0 as OpenNeuro ds008302, version 1.0.0 (doi:10.18112/openneuro.ds008302.v1.0.0), with a NEMAR mirror (on008302; doi:10.82901/nemar.on008302). Analysis code, synthetic data generators, result tables, figure source data and figure scripts are available at https://github.com/osmar235/Heart_Brain_Coherence (code under the MIT license; documents, tables and figures under CC BY 4.0). The dated analysis plans, decision records and execution logs are available from the author on request. The release is archived on Zenodo (doi:10.5281/zenodo.24328708). The wavelet functions were copied without modification from the published EMG framework [@pintoneto2027] (release v3.3.1 of https://github.com/osmar235/EMG_Simulator_WaveletCoherence; doi:10.5281/zenodo.24328375), and the release records their checksum.
+The recordings are public under CC0 as OpenNeuro ds008302, version 1.0.0 (doi:10.18112/openneuro.ds008302.v1.0.0), with a NEMAR mirror (on008302; doi:10.82901/nemar.on008302). Analysis code, synthetic data generators, result tables, figure source data and figure scripts are available at https://github.com/osmar235/Heart_Brain_Coherence (code under the MIT license; documents, tables and figures under CC BY 4.0). The dated analysis plans, decision records and execution logs are available from the author on request. The release is archived on Zenodo (version 3.1.1, doi:10.5281/zenodo.24328792). The wavelet functions were copied without modification from the published EMG framework [@pintoneto2027] (release v3.3.1 of https://github.com/osmar235/EMG_Simulator_WaveletCoherence; doi:10.5281/zenodo.24328375), and the release records their checksum.
 
 ## Ethics
 
-This study reanalyzed public deidentified data. The original researchers reported approval by the ethics committee of Ural Federal University and written informed consent [@kotyusov2026]. **\[Confirm institutional requirements for secondary analysis.\]**
+This study reanalyzed public deidentified data. The original researchers reported approval by the ethics committee of Ural Federal University and written informed consent [@kotyusov2026]. Institutional review board approval was not required for this secondary analysis of public deidentified data.
 
 ## Funding
 
@@ -244,10 +248,6 @@ Osmar Pinto Neto is a cofounder of Neurometra, a company that works on physiolog
 ## Author contributions
 
 O.P.N. is the sole author and was responsible for conceptualization, methodology, software, validation, formal analysis, investigation, data curation, visualization, writing (original draft), writing (review and editing) and project administration.
-
-## Use of generative AI
-
-Claude (Anthropic) assisted with code development, simulation design, figure scripts and manuscript drafting, and ChatGPT (OpenAI) assisted with manuscript review. Both were used under the author's direction. The author verified the analyses, references and claims and is responsible for the content. **\[Adapt to the journal's policy.\]**
 
 ## References
 

@@ -227,7 +227,7 @@ One dataset supported three successive readings of slow coherence between heart 
 
 ## Data and code availability
 
-The recordings are public under CC0 as OpenNeuro ds008302, version 1.0.0 (doi:10.18112/openneuro.ds008302.v1.0.0), with a NEMAR mirror (on008302; doi:10.82901/nemar.on008302). Analysis code, synthetic data generators, result tables, figure source data and figure scripts are available at https://github.com/osmar235/Heart_Brain_Coherence (code under the MIT license; documents, tables and figures under CC BY 4.0). The dated analysis plans, decision records and execution logs are available from the author on request. **\[Zenodo DOI of the archived release to be inserted.\]** The wavelet functions were copied without modification from the published EMG framework [@pintoneto2027] (release v3.3.1 of https://github.com/osmar235/EMG_Simulator_WaveletCoherence), and the release records their checksum.
+The recordings are public under CC0 as OpenNeuro ds008302, version 1.0.0 (doi:10.18112/openneuro.ds008302.v1.0.0), with a NEMAR mirror (on008302; doi:10.82901/nemar.on008302). Analysis code, synthetic data generators, result tables, figure source data and figure scripts are available at https://github.com/osmar235/Heart_Brain_Coherence (code under the MIT license; documents, tables and figures under CC BY 4.0). The dated analysis plans, decision records and execution logs are available from the author on request. The release is archived on Zenodo (doi:10.5281/zenodo.24328708). The wavelet functions were copied without modification from the published EMG framework [@pintoneto2027] (release v3.3.1 of https://github.com/osmar235/EMG_Simulator_WaveletCoherence; doi:10.5281/zenodo.24328375), and the release records their checksum.
 
 ## Ethics
 

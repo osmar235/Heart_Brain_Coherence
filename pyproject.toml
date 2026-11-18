@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "heart-brain-coherence"
-version = "3.1.0"
+version = "3.1.1"
 description = "Slow wavelet coherence between heart period and EEG band envelopes, with the negative and positive controls of the study One Dataset, Three Verdicts."
 readme = "README.md"
 license = "MIT"

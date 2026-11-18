@@ -63,7 +63,7 @@ OpenNeuro ds008302 version 1.0.0, CC0: doi:10.18112/openneuro.ds008302.v1.0.0 (N
 
 ## How to cite
 
-If you use this code or these results, please cite the article (reference to be added on publication) and this repository (see `CITATION.cff`; Zenodo DOI to be added). If you use the wavelet functions, please also cite the EMG simulation framework (https://github.com/osmar235/EMG_Simulator_WaveletCoherence):
+If you use this code or these results, please cite the article (reference to be added on publication) and this repository (doi:10.5281/zenodo.24328708; see `CITATION.cff`). If you use the wavelet functions, please also cite the EMG simulation framework (https://github.com/osmar235/EMG_Simulator_WaveletCoherence, release v3.3.1, doi:10.5281/zenodo.24328375) and its article:
 
 Pinto Neto O, Pinho TOR, Wang Y, Balbinot G, Kennedy DM. A computational framework for EMG simulation and coherence-based biomarker analysis on neural crosstalk in bimanual coordination. Computer Methods and Programs in Biomedicine. 2027;288:109657. doi:10.1016/j.cmpb.2026.109657
 

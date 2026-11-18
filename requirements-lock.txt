@@ -1,4 +1,4 @@
-# Exact package versions. Written by hb.build_release on 2026-11-17 18:12.
+# Exact package versions. Written by hb.build_release on 2026-11-17 18:17.
 # Interpreter: Python 3.14.3 on Windows-11-10.0.26200-SP0
 # pip freeze of the environment that ran the build, restricted to the packages in
 # requirements.txt and their dependencies (37 kept, 132 unrelated packages of that environment left out).

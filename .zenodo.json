@@ -1,7 +1,7 @@
 {
   "upload_type": "software",
   "title": "One Dataset, Three Verdicts: code and results for heart and brain wavelet coherence",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "creators": [
     {
       "name": "Pinto Neto, Osmar",
@@ -28,7 +28,7 @@
       "relation": "references"
     },
     {
-      "identifier": "https://github.com/osmar235/EMG_Simulator_WaveletCoherence/tree/v3.3.1",
+      "identifier": "10.5281/zenodo.24328375",
       "relation": "requires"
     }
   ]

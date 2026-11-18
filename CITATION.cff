@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code or these results, please cite the article once published, and this repository."
 title: "One Dataset, Three Verdicts: code and results"
 type: software
-version: "3.1.0"
+version: "3.1.1"
+doi: "10.5281/zenodo.24328708"
 license: MIT
 repository-code: "https://github.com/osmar235/Heart_Brain_Coherence"
 authors:

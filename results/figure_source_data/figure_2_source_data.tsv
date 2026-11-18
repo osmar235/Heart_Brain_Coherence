@@ -1,0 +1,49 @@
+panel	series	eeg	band	value	ci95_low	ci95_high
+A	Phase randomized, independent model	theta	LF	0.00448	0.0016099999999999995	0.00735
+A	Phase randomized, independent model	theta	HF	0.00094	-0.0005800000000000001	0.00246
+A	Phase randomized, independent model	alpha	LF	0.00271	0.0002700000000000003	0.00515
+A	Phase randomized, independent model	alpha	HF	0.00011	-0.00147	0.00169
+A	Phase randomized, independent model	beta	LF	0.00593	0.0033600000000000006	0.0085
+A	Phase randomized, independent model	beta	HF	0.00079	-0.00045	0.00203
+A	Phase randomized, matched model	theta	LF	0.00262	0.00037	0.00488
+A	Phase randomized, matched model	theta	HF	0.00041	-0.00106	0.00189
+A	Phase randomized, matched model	alpha	LF	0.00429	0.00208	0.0065
+A	Phase randomized, matched model	alpha	HF	-0.00075	-0.00239	0.00089
+A	Phase randomized, matched model	beta	LF	0.00362	0.0011	0.00615
+A	Phase randomized, matched model	beta	HF	0.0007	-0.00089	0.00228
+A	Trial shuffle, independent model	theta	LF	0.00011	-0.00262	0.00284
+A	Trial shuffle, independent model	theta	HF	0.00042	-0.00114	0.00197
+A	Trial shuffle, independent model	alpha	LF	0.00015	-0.00226	0.00256
+A	Trial shuffle, independent model	alpha	HF	0.00036	-0.0013	0.00203
+A	Trial shuffle, independent model	beta	LF	0.00212	-0.00038	0.00462
+A	Trial shuffle, independent model	beta	HF	0.00039	-0.00092	0.0017
+A	Trial shuffle, matched model	theta	LF	-0.00041	-0.00261	0.00178
+A	Trial shuffle, matched model	theta	HF	-0.00039	-0.0019	0.00113
+A	Trial shuffle, matched model	alpha	LF	0.00223	-0.00019	0.00466
+A	Trial shuffle, matched model	alpha	HF	-0.00103	-0.00277	0.00071
+A	Trial shuffle, matched model	beta	LF	0.00118	-0.00127	0.00362
+A	Trial shuffle, matched model	beta	HF	0.00049	-0.00107	0.00205
+A	Observed, phase calibrated	theta	LF	0.00426	0.00179	0.00673
+A	Observed, phase calibrated	theta	HF	0.00106	-0.00072	0.00284
+A	Observed, phase calibrated	alpha	LF	0.00594	0.00327	0.0086
+A	Observed, phase calibrated	alpha	HF	0.00196	0.00053	0.00339
+A	Observed, phase calibrated	beta	LF	0.00986	0.00668	0.01305
+A	Observed, phase calibrated	beta	HF	0.00204	0.00042	0.00366
+B	Full model	theta	LF	0.00142	-0.00287	0.00572
+B	No gain variability	theta	LF	0.00495	0.00099	0.0089
+B	No latency jitter	theta	LF	0.0026	-0.00147	0.00668
+B	Stationary noise	theta	LF	0.00032	-0.0037	0.00434
+B	No recall scaling	theta	LF	0.00102	-0.00326	0.00529
+B	Identical trials, stationary noise	theta	LF	0.00257	-0.00139	0.00653
+B	Full model	alpha	LF	0.00359	0.0	0.00718
+B	No gain variability	alpha	LF	0.00728	0.00318	0.01137
+B	No latency jitter	alpha	LF	0.00401	7e-05	0.00794
+B	Stationary noise	alpha	LF	0.00119	-0.00257	0.00494
+B	No recall scaling	alpha	LF	0.0021	-0.00173	0.00593
+B	Identical trials, stationary noise	alpha	LF	0.00354	-0.0009	0.00799
+B	Full model	beta	LF	0.00717	0.0036	0.01074
+B	No gain variability	beta	LF	0.00954	0.00557	0.01352
+B	No latency jitter	beta	LF	0.00731	0.00361	0.01101
+B	Stationary noise	beta	LF	0.00425	0.00062	0.00789
+B	No recall scaling	beta	LF	0.00269	-0.00108	0.00646
+B	Identical trials, stationary noise	beta	LF	0.00613	0.00269	0.00957

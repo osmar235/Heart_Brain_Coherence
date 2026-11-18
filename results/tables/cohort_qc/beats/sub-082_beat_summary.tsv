@@ -1,0 +1,2 @@
+sub	task	detected	template_rejected	extra_removed	missed_inserted	ectopic_marked	other_marked	final_beats	intervals_marked	pct_intervals_marked	pct_beats_changed	mean_hr_bpm	rmssd_ms	sdnn_ms	longest_unmarked_run_s	ppg_corr_raw	ppg_median_abs_diff_ms_raw	ppg_corr_corrected	ppg_median_abs_diff_ms_corrected
+sub-082	memory	9740	297	0	153	155	12	9596	469	4.888	4.62	140.8	188.1	137.5	112.7	0.029	326.4	0.009	322.3

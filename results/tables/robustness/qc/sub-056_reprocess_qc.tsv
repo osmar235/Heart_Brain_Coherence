@@ -1,0 +1,2 @@
+sub	status	n_detected_beats	r_amplitude_median	cfa_p2p_before_theta_uV	cfa_p2p_after_theta_uV	cfa_p2p_before_alpha_uV	cfa_p2p_after_alpha_uV	cfa_p2p_before_beta_uV	cfa_p2p_after_beta_uV	theta_channels	theta_pct_interpolated	alpha_channels	alpha_pct_interpolated	beta_channels	beta_pct_interpolated	cfa_reduction_theta_pct	cfa_reduction_alpha_pct	cfa_reduction_beta_pct
+sub-056	ok	7109	32427.0	3.744	0.84	3.287	0.464	1.92	0.435	AFz,Fz,F1,F2	2.68	P1,P2,P3,P4,P5,P6,PO3,PO4	0.66	C3,C1,CP3,CP5,C5,CP1	0.32	77.6	85.9	77.3

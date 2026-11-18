@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article once published, and this repository."
+title: "One Dataset, Three Verdicts: code and results"
+type: software
+version: "3.1.0"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/osmar235/Heart_Brain_Coherence"
+authors:
+  - family-names: "Pinto Neto"
+    given-names: "Osmar"
+    affiliation: "Department of Kinesiology, California State University San Marcos"
+    email: "osmar@csusm.edu"
+abstract: "Analysis code, result tables, figures and decision records for a reanalysis of slow coherence between heart period and EEG envelopes during working memory (OpenNeuro ds008302), with negative and positive controls."
+keywords:
+  - wavelet coherence
+  - heart rate variability
+  - EEG
+  - surrogate data
+  - negative controls
+  - positive controls
+references:
+  - type: data
+    title: "Cognitive overload and rest dataset. Simultaneous EEG + PPG + ECG + eye-tracking"
+    authors:
+      - family-names: "Pavlov"
+        given-names: "Yuri G."
+    version: "1.0.0"
+    doi: "10.18112/openneuro.ds008302.v1.0.0"
+    year: 2026
+  - type: article
+    title: "A computational framework for EMG simulation and coherence-based biomarker analysis on neural crosstalk in bimanual coordination"
+    authors:
+      - family-names: "Pinto Neto"
+        given-names: "Osmar"
+      - family-names: "Pinho"
+        given-names: "Tatiana Okubo Rocha"
+      - family-names: "Wang"
+        given-names: "Y."
+      - family-names: "Balbinot"
+        given-names: "G."
+      - family-names: "Kennedy"
+        given-names: "D. M."
+    journal: "Computer Methods and Programs in Biomedicine"
+    volume: 288
+    year: 2027
+    doi: "10.1016/j.cmpb.2026.109657"

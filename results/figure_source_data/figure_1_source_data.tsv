@@ -1,0 +1,43 @@
+panel	series	eeg	band	value	ci95_low	ci95_high
+A	initial analysis, between block reference	theta	LF	0.00536	0.00283	0.00788
+B	trial shuffle, ICA	theta	LF	0.00059	-0.00199	0.00317
+B	trial shuffle, ICA, muscle proxy	theta	LF	0.00066	-0.00195	0.00327
+C	cross participant, ICA	theta	LF	0.00117	-0.00138	0.00373
+C	cross participant, ICA, muscle proxy	theta	LF	0.00041	-0.00207	0.00289
+A	initial analysis, between block reference	theta	HF	0.00181	5e-05	0.00357
+B	trial shuffle, ICA	theta	HF	0.00033	-0.0013	0.00196
+B	trial shuffle, ICA, muscle proxy	theta	HF	0.00037	-0.00136	0.0021
+C	cross participant, ICA	theta	HF	0.00025	-0.00123	0.00173
+C	cross participant, ICA, muscle proxy	theta	HF	7e-05	-0.00144	0.00157
+A	initial analysis, between block reference	alpha	LF	0.00709	0.00445	0.00973
+B	trial shuffle, ICA	alpha	LF	0.00457	0.00165	0.00749
+B	trial shuffle, ICA, muscle proxy	alpha	LF	0.0038	0.0008	0.00681
+C	cross participant, ICA	alpha	LF	0.00534	0.00249	0.00819
+C	cross participant, ICA, muscle proxy	alpha	LF	0.00453	0.00169	0.00737
+A	initial analysis, between block reference	alpha	HF	0.0028	0.00135	0.00426
+B	trial shuffle, ICA	alpha	HF	0.00112	-0.00042	0.00266
+B	trial shuffle, ICA, muscle proxy	alpha	HF	0.0007	-0.00088	0.00228
+C	cross participant, ICA	alpha	HF	0.00142	-0.00015	0.00299
+C	cross participant, ICA, muscle proxy	alpha	HF	0.00126	-0.00033	0.00285
+A	initial analysis, between block reference	beta	LF	0.01071	0.00756	0.01386
+B	trial shuffle, ICA	beta	LF	0.01081	0.00757	0.01404
+B	trial shuffle, ICA, muscle proxy	beta	LF	0.00594	0.00313	0.00875
+C	cross participant, ICA	beta	LF	0.01152	0.00841	0.01464
+C	cross participant, ICA, muscle proxy	beta	LF	0.00723	0.00452	0.00995
+A	initial analysis, between block reference	beta	HF	0.00269	0.00119	0.0042
+B	trial shuffle, ICA	beta	HF	0.00169	0.00026	0.00313
+B	trial shuffle, ICA, muscle proxy	beta	HF	0.00087	-0.00059	0.00234
+C	cross participant, ICA	beta	HF	0.00207	0.00057	0.00356
+C	cross participant, ICA, muscle proxy	beta	HF	0.00115	-0.00044	0.00273
+B	upper bias limit, trial shuffle	theta	LF	0.0028413678156558346		
+B	upper bias limit, trial shuffle	theta	HF	0.001973009449439151		
+B	upper bias limit, trial shuffle	alpha	LF	0.004661700122732404		
+B	upper bias limit, trial shuffle	alpha	HF	0.0020299138689452876		
+B	upper bias limit, trial shuffle	beta	LF	0.0046218785904219364		
+B	upper bias limit, trial shuffle	beta	HF	0.0020538487891981917		
+C	upper bias limit, cross participant	theta	LF	0.003409176581550129		
+C	upper bias limit, cross participant	theta	HF	0.0017375262168739898		
+C	upper bias limit, cross participant	alpha	LF	0.004054113634068714		
+C	upper bias limit, cross participant	alpha	HF	0.0017259087912275023		
+C	upper bias limit, cross participant	beta	LF	0.004185535609657445		
+C	upper bias limit, cross participant	beta	HF	0.0019328585699804187		

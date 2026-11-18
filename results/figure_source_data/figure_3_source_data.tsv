@@ -1,0 +1,73 @@
+panel	series	eeg	band	value	ci95_low	ci95_high
+A	Planted, low	theta	LF	0.00658	0.00424	0.00891
+A	Planted, low	theta	HF	0.00416	0.00262	0.0057
+A	Planted, low	alpha	LF	0.00649	0.00408	0.0089
+A	Planted, low	alpha	HF	0.0042	0.00249	0.0059
+A	Planted, low	beta	LF	0.00681	0.00407	0.00954
+A	Planted, low	beta	HF	0.00491	0.00341	0.00642
+A	Planted, middle	theta	LF	0.01338	0.01065	0.01611
+A	Planted, middle	theta	HF	0.00748	0.00593	0.00903
+A	Planted, middle	alpha	LF	0.01454	0.01194	0.01714
+A	Planted, middle	alpha	HF	0.00738	0.00572	0.00904
+A	Planted, middle	beta	LF	0.01309	0.01041	0.01578
+A	Planted, middle	beta	HF	0.00969	0.00801	0.01137
+A	Planted, high	theta	LF	0.02915	0.02669	0.03161
+A	Planted, high	theta	HF	0.01525	0.0135	0.017
+A	Planted, high	alpha	LF	0.02846	0.02596	0.03096
+A	Planted, high	alpha	HF	0.01463	0.01293	0.01634
+A	Planted, high	beta	LF	0.0254	0.02264	0.02816
+A	Planted, high	beta	HF	0.01431	0.01276	0.01585
+A	observed, ICA	theta	LF	0.00059	-0.00199	0.00317
+A	observed, ICA, muscle proxy	theta	LF	0.00066	-0.00195	0.00327
+A	observed, ICA	theta	HF	0.00033	-0.0013	0.00196
+A	observed, ICA, muscle proxy	theta	HF	0.00037	-0.00136	0.0021
+A	observed, ICA	alpha	LF	0.00457	0.00165	0.00749
+A	observed, ICA, muscle proxy	alpha	LF	0.0038	0.0008	0.00681
+A	observed, ICA	alpha	HF	0.00112	-0.00042	0.00266
+A	observed, ICA, muscle proxy	alpha	HF	0.0007	-0.00088	0.00228
+A	observed, ICA	beta	LF	0.01081	0.00757	0.01404
+A	observed, ICA, muscle proxy	beta	LF	0.00594	0.00313	0.00875
+A	observed, ICA	beta	HF	0.00169	0.00026	0.00313
+A	observed, ICA, muscle proxy	beta	HF	0.00087	-0.00059	0.00234
+A	upper bias limit, shuffle	theta	LF	0.0028413678156558346		
+A	upper bias limit, shuffle	theta	HF	0.001973009449439151		
+A	upper bias limit, shuffle	alpha	LF	0.004661700122732404		
+A	upper bias limit, shuffle	alpha	HF	0.0020299138689452876		
+A	upper bias limit, shuffle	beta	LF	0.0046218785904219364		
+A	upper bias limit, shuffle	beta	HF	0.0020538487891981917		
+B	Planted, low	theta	LF	0.00647	0.00422	0.00871
+B	Planted, low	theta	HF	0.00442	0.00293	0.00591
+B	Planted, low	alpha	LF	0.00688	0.00451	0.00925
+B	Planted, low	alpha	HF	0.00395	0.00237	0.00552
+B	Planted, low	beta	LF	0.00677	0.0042	0.00934
+B	Planted, low	beta	HF	0.00501	0.00357	0.00645
+B	Planted, middle	theta	LF	0.01362	0.01087	0.01637
+B	Planted, middle	theta	HF	0.00748	0.00586	0.00909
+B	Planted, middle	alpha	LF	0.01385	0.01131	0.01639
+B	Planted, middle	alpha	HF	0.00782	0.00621	0.00943
+B	Planted, middle	beta	LF	0.0132	0.01071	0.01568
+B	Planted, middle	beta	HF	0.00915	0.00747	0.01083
+B	Planted, high	theta	LF	0.02939	0.02691	0.03188
+B	Planted, high	theta	HF	0.01435	0.01278	0.01592
+B	Planted, high	alpha	LF	0.02706	0.02466	0.02947
+B	Planted, high	alpha	HF	0.01331	0.01166	0.01495
+B	Planted, high	beta	LF	0.02525	0.02248	0.02801
+B	Planted, high	beta	HF	0.0146	0.01308	0.01611
+B	observed, ICA	theta	LF	0.00117	-0.00138	0.00373
+B	observed, ICA, muscle proxy	theta	LF	0.00041	-0.00207	0.00289
+B	observed, ICA	theta	HF	0.00025	-0.00123	0.00173
+B	observed, ICA, muscle proxy	theta	HF	7e-05	-0.00144	0.00157
+B	observed, ICA	alpha	LF	0.00534	0.00249	0.00819
+B	observed, ICA, muscle proxy	alpha	LF	0.00453	0.00169	0.00737
+B	observed, ICA	alpha	HF	0.00142	-0.00015	0.00299
+B	observed, ICA, muscle proxy	alpha	HF	0.00126	-0.00033	0.00285
+B	observed, ICA	beta	LF	0.01152	0.00841	0.01464
+B	observed, ICA, muscle proxy	beta	LF	0.00723	0.00452	0.00995
+B	observed, ICA	beta	HF	0.00207	0.00057	0.00356
+B	observed, ICA, muscle proxy	beta	HF	0.00115	-0.00044	0.00273
+B	upper bias limit, cross	theta	LF	0.003409176581550129		
+B	upper bias limit, cross	theta	HF	0.0017375262168739898		
+B	upper bias limit, cross	alpha	LF	0.004054113634068714		
+B	upper bias limit, cross	alpha	HF	0.0017259087912275023		
+B	upper bias limit, cross	beta	LF	0.004185535609657445		
+B	upper bias limit, cross	beta	HF	0.0019328585699804187		

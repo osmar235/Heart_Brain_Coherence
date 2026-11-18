@@ -1,0 +1,13 @@
+# Lower bounds. Exact versions of the analysis environment: requirements-lock.txt
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.8
+tqdm>=4.60
+h5py>=3.10
+pycwt  # Morlet transform used by the vendored wavelet functions
+# ICA steps (16a to 16c) only
+mne>=1.8
+mne-icalabel>=0.7
+python-picard>=0.8
+onnxruntime>=1.18
+scikit-learn>=1.3

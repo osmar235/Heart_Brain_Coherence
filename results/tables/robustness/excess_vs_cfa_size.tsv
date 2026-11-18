@@ -1,0 +1,7 @@
+eeg	band	n	spearman_rho	p
+theta	LF	121	0.07722	0.39989
+theta	HF	121	-0.02404	0.7935
+alpha	LF	122	0.05438	0.55194
+alpha	HF	122	0.02296	0.8018
+beta	LF	122	0.12965	0.15465
+beta	HF	122	0.07931	0.38518

@@ -1,0 +1,4 @@
+{
+  "_comment": "Copy this file to config/local_paths.json and set raw_data_root to the folder that holds (or will hold) the ds008302 files. The environment variable HB_DATA_ROOT, if set, wins over this file. local_paths.json is ignored by git.",
+  "raw_data_root": "D:/data/ds008302"
+}

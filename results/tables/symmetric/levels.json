@@ -1,0 +1,6 @@
+{
+ "levels": {"low": 0.032, "mid": 0.045, "high": 0.064},
+ "rule": "quadratic fit of the mean LF added excess (three regions) on c squared through the origin over the six pilot levels, a = 4.95; c = sqrt(target / a) for targets 0.005, 0.010, 0.020, rounded to three decimals",
+ "pilot": "results/symmetric/pilot_levels.tsv, 13 participants (every tenth), matched synthetic model, run 2026-11-15 UTC in Claude's Linux workspace on the user's machine",
+ "written": "2026-11-14 local"
+}

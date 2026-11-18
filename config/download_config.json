@@ -1,0 +1,33 @@
+{
+  "dataset_id": "ds008302",
+  "dataset_version": "1.0.0",
+  "manifest": "data_manifest/dataset_manifest.tsv",
+  "default_raw_data_root": "data/raw/ds008302",
+  "github_commit": "af3998a993adb108dc29a58b70080bcc72a42098",
+  "github_raw_base": "https://raw.githubusercontent.com/nemarDatasets/on008302",
+  "github_zip_base": "https://codeload.github.com/nemarDatasets/on008302/zip",
+  "openneuro_s3_base": "https://s3.amazonaws.com/openneuro.org/ds008302",
+  "zip_threshold_files": 40,
+  "retries": 6,
+  "timeout_seconds": 60,
+  "max_selection_gb": 10,
+  "free_space_margin_gb": 5,
+  "pilot": {
+    "subjects": [
+      "sub-124",
+      "sub-125",
+      "sub-128"
+    ],
+    "tasks": [
+      "memory",
+      "rest",
+      "video"
+    ],
+    "include_beh_eyetracking": false
+  },
+  "cohort": {
+    "tasks": [
+      "memory"
+    ]
+  }
+}

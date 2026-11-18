@@ -1,0 +1,15 @@
+figure	source	sha256_16
+1	results/cohort_stats/group_tests.tsv	ff21b4a69136c6f3
+1	results/ica_v2/shuffle_calibrated_H1_picard.tsv	e8b06fbbb3dddde6
+1	results/symmetric/real_cross_calibrated_H1.tsv	daa6691bdac7058a
+1	results/trial_shuffle/gate.json	5e64aa42a3dca807
+1	results/symmetric/gate_cross.json	4502e7731b28f7f5
+2	results/null_validation/null_validation_cells.tsv	6059cee9b0145ed1
+2	results/trial_shuffle/validate_cells.tsv	1cd3a7ab90dcf238
+2	results/null_calibration/check2_H1_calibrated.tsv	293a9ac3b8e52e0b
+2	results/trial_shuffle/decompose_cells.tsv	3474c8f61f534111
+3	results/symmetric/synthetic_cells.tsv	4bc393a58ac5d12d
+3	results/ica_v2/shuffle_calibrated_H1_picard.tsv	e8b06fbbb3dddde6
+3	results/symmetric/real_cross_calibrated_H1.tsv	daa6691bdac7058a
+3	results/trial_shuffle/gate.json	5e64aa42a3dca807
+3	results/symmetric/gate_cross.json	4502e7731b28f7f5

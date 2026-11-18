@@ -1,0 +1,4 @@
+sub-124: EEG signals with at least 80% of blocks retained: 3 (theta, alpha, beta); mean LF share inside cone of influence 0.85; passes: True
+sub-125: EEG signals with at least 80% of blocks retained: 2 (alpha, beta); mean LF share inside cone of influence 0.87; passes: True
+sub-128: EEG signals with at least 80% of blocks retained: 3 (theta, alpha, beta); mean LF share inside cone of influence 0.81; passes: True
+3 of 3 participants pass. GO criteria met. The excess values are not part of these criteria.

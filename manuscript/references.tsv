@@ -1,0 +1,34 @@
+key	reference
+thayer2000	Thayer JF, Lane RD. A model of neurovisceral integration in emotion regulation and dysregulation. J Affect Disord. 2000;61(3):201-216. doi:10.1016/S0165-0327(00)00338-4.
+thayer2009	Thayer JF, Hansen AL, Saus-Rose E, Johnsen BH. Heart rate variability, prefrontal neural function, and cognitive performance: the neurovisceral integration perspective on self-regulation, adaptation, and health. Ann Behav Med. 2009;37(2):141-153. doi:10.1007/s12160-009-9101-z.
+taskforce1996	Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology. Heart rate variability: standards of measurement, physiological interpretation and clinical use. Circulation. 1996;93(5):1043-1065. doi:10.1161/01.CIR.93.5.1043.
+vonjakitsch2024	von Jakitsch CB, Pinto Neto O, Pinho TOR, Ribeiro W, Pereira R, Baltatu OC, Osório RAL. High and low pitch sound stimuli effects on heart-brain coupling. Biomed Eng Lett. 2024;14(2):331-339. doi:10.1007/s13534-023-00340-5.
+pintoneto2016	Pinto Neto O, Pinheiro AO, Pereira VL Jr, Pereira R, Baltatu OC, Campos LA. Morlet wavelet transforms of heart rate variability for autonomic nervous system activity. Appl Comput Harmon Anal. 2016;40(1):200-206. doi:10.1016/j.acha.2015.07.002.
+sargent2024	Sargent KS, Martinez EL, Reed AC, Guha A, Bartholomew ME, Diehl CK, Chang CS, Salama S, Popov T, Thayer JF, Miller GA, Yee CM. Oscillatory coupling between neural and cardiac rhythms. Psychol Sci. 2024;35(5):517-528. doi:10.1177/09567976241235932.
+lee2022	Lee D, Kwon W, Heo J, Park JY. Associations between heart rate variability and brain activity during a working memory task: a preliminary electroencephalogram study on depression and anxiety disorder. Brain Sci. 2022;12(2):172. doi:10.3390/brainsci12020172.
+truccolo2002	Truccolo WA, Ding M, Knuth KH, Nakamura R, Bressler SL. Trial-to-trial variability of cortical evoked responses: implications for the analysis of functional connectivity. Clin Neurophysiol. 2002;113:206-226. doi:10.1016/S1388-2457(01)00739-8.
+cole2019	Cole MW, Ito T, Schultz D, Mill R, Chen R, Cocuzza C. Task activations produce spurious but systematic inflation of task functional connectivity estimates. NeuroImage. 2019;189:1-18. doi:10.1016/j.neuroimage.2018.12.054.
+theiler1992	Theiler J, Eubank S, Longtin A, Galdrikian B, Farmer JD. Testing for nonlinearity in time series: the method of surrogate data. Physica D. 1992;58(1-4):77-94. doi:10.1016/0167-2789(92)90102-S.
+chavez2019	Chavez M, Cazelles B. Detecting dynamic spatial correlation patterns with generalized wavelet coherence and non-stationary surrogate data. Sci Rep. 2019;9:7389. doi:10.1038/s41598-019-43571-2.
+pintoneto2027	Pinto Neto O, Pinho TOR, Wang Y, Balbinot G, Kennedy DM. A computational framework for EMG simulation and coherence-based biomarker analysis on neural crosstalk in bimanual coordination. Comput Methods Programs Biomed. 2027;288:109657. doi:10.1016/j.cmpb.2026.109657.
+pintoneto2010	Pinto Neto O, Christou EA. Rectification of the EMG signal impairs the identification of oscillatory input to the muscle. J Neurophysiol. 2010;103(2):1093-1103. doi:10.1152/jn.00792.2009.
+kotyusov2026	Kotyusov AI, Kasanov DA, Zaitseva AI, Kotchoubey B, Pavlov YG. One digit too many: brain rhythms and autonomic responses at the limits of working memory capacity. bioRxiv. 2026. doi:10.64898/2026.11.01.763481.
+pavlov2026ds	Pavlov YG. Cognitive overload and rest dataset. Simultaneous EEG + PPG + ECG + eye-tracking (version 1.0.0). OpenNeuro ds008302. 2026. doi:10.18112/openneuro.ds008302.v1.0.0. NEMAR on008302, doi:10.82901/nemar.on008302.
+kosachenko2023	Kosachenko AI, Kasanov D, Kotyusov AI, Pavlov YG. EEG and pupillometric signatures of working memory overload. Psychophysiology. 2023;60(6):e14275. doi:10.1111/psyp.14275.
+pavlov2022rev	Pavlov YG, Kotchoubey B. Oscillatory brain activity and maintenance of verbal and visual working memory: a systematic review. Psychophysiology. 2022;59(5):e13735. doi:10.1111/psyp.13735.
+pavlov2022data	Pavlov YG, Kasanov D, Kosachenko AI, Kotyusov AI, Busch NA. Pupillometry and electroencephalography in the digit span task. Sci Data. 2022;9:325. doi:10.1038/s41597-022-01414-2.
+lipponen2019	Lipponen JA, Tarvainen MP. A robust algorithm for heart rate variability time series artefact correction using novel beat classification. J Med Eng Technol. 2019;43(3):173-181. doi:10.1080/03091902.2019.1640306.
+grinsted2004	Grinsted A, Moore JC, Jevrejeva S. Application of the cross wavelet transform and wavelet coherence to geophysical time series. Nonlinear Process Geophys. 2004;11(5/6):561-566. doi:10.5194/npg-11-561-2004.
+torrence1998	Torrence C, Compo GP. A practical guide to wavelet analysis. Bull Am Meteorol Soc. 1998;79(1):61-78. doi:10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2.
+torrence1999	Torrence C, Webster PJ. Interdecadal changes in the ENSO-monsoon system. J Clim. 1999;12(8):2679-2690. doi:10.1175/1520-0442(1999)012<2679:ICITEM>2.0.CO;2.
+dirlich1997	Dirlich G, Vogl L, Plaschke M, Strian F. Cardiac field effects on the EEG. Electroencephalogr Clin Neurophysiol. 1997;102(4):307-315. doi:10.1016/S0013-4694(96)96506-2.
+moody1985	Moody GB, Mark RG, Zoccola A, Mantero S. Derivation of respiratory signals from multi-lead ECGs. In: Computers in Cardiology 1985. Vol 12. Washington, DC: IEEE Computer Society Press; 1985:113-116.
+piontonachini2019	Pion-Tonachini L, Kreutz-Delgado K, Makeig S. ICLabel: an automated electroencephalographic independent component classifier, dataset, and website. NeuroImage. 2019;198:181-197. doi:10.1016/j.neuroimage.2019.05.026.
+holm1979	Holm S. A simple sequentially rejective multiple test procedure. Scand J Stat. 1979;6(2):65-70.
+grossman2007	Grossman P, Taylor EW. Toward understanding respiratory sinus arrhythmia: relations to cardiac vagal tone, evolution and biobehavioral functions. Biol Psychol. 2007;74(2):263-285. doi:10.1016/j.biopsycho.2005.11.014.
+lipsitch2010	Lipsitch M, Tchetgen Tchetgen E, Cohen T. Negative controls: a tool for detecting confounding and bias in observational studies. Epidemiology. 2010;21(3):383-388. doi:10.1097/EDE.0b013e3181d61eeb.
+popper1959	Popper KR. The Logic of Scientific Discovery. London: Hutchinson; 1959.
+platt1964	Platt JR. Strong inference. Science. 1964;146(3642):347-353. doi:10.1126/science.146.3642.347.
+mayo2018	Mayo DG. Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars. Cambridge: Cambridge University Press; 2018. doi:10.1017/9781107286184.
+lakens2017	Lakens D. Equivalence tests: a practical primer for t tests, correlations, and meta-analyses. Soc Psychol Personal Sci. 2017;8(4):355-362. doi:10.1177/1948550617697177.
+gelman2014	Gelman A, Loken E. The statistical crisis in science. Am Sci. 2014;102(6):460-465. doi:10.1511/2014.111.460.

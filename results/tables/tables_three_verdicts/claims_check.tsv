@@ -1,0 +1,50 @@
+claim	value
+theta LF: cross ICA+proxy lower limit minus limit, K16	-0.005479
+theta LF: cross ICA+proxy lower limit minus limit, K8	-0.006429
+theta LF: trial shuffle ICA+proxy lower limit minus limit, K16	-0.004791
+theta LF: planted low, cross, lower limit minus limit	0.000811
+theta LF: trial shuffle v2 full calibrated excess	0.000590
+theta LF: trial shuffle v2 encret calibrated excess	0.002430
+theta LF: trial shuffle v2_emgadj full calibrated excess	0.000660
+theta LF: trial shuffle v2_emgadj encret calibrated excess	0.002490
+theta HF: cross ICA+proxy lower limit minus limit, K16	-0.003178
+theta HF: cross ICA+proxy lower limit minus limit, K8	-0.003498
+theta HF: trial shuffle ICA+proxy lower limit minus limit, K16	-0.003333
+theta HF: planted low, cross, lower limit minus limit	0.001192
+theta HF: trial shuffle v2 full calibrated excess	0.000330
+theta HF: trial shuffle v2 encret calibrated excess	0.001290
+theta HF: trial shuffle v2_emgadj full calibrated excess	0.000370
+theta HF: trial shuffle v2_emgadj encret calibrated excess	0.001100
+alpha LF: cross ICA+proxy lower limit minus limit, K16	-0.002364
+alpha LF: cross ICA+proxy lower limit minus limit, K8	-0.002154
+alpha LF: trial shuffle ICA+proxy lower limit minus limit, K16	-0.003862
+alpha LF: planted low, cross, lower limit minus limit	0.000456
+alpha LF: trial shuffle v2 full calibrated excess	0.004570
+alpha LF: trial shuffle v2 encret calibrated excess	0.005420
+alpha LF: trial shuffle v2_emgadj full calibrated excess	0.003800
+alpha LF: trial shuffle v2_emgadj encret calibrated excess	0.004610
+alpha HF: cross ICA+proxy lower limit minus limit, K16	-0.002056
+alpha HF: cross ICA+proxy lower limit minus limit, K8	-0.002366
+alpha HF: trial shuffle ICA+proxy lower limit minus limit, K16	-0.002910
+alpha HF: planted low, cross, lower limit minus limit	0.000644
+alpha HF: trial shuffle v2 full calibrated excess	0.001120
+alpha HF: trial shuffle v2 encret calibrated excess	0.001570
+alpha HF: trial shuffle v2_emgadj full calibrated excess	0.000700
+alpha HF: trial shuffle v2_emgadj encret calibrated excess	0.001330
+beta LF: cross ICA+proxy lower limit minus limit, K16	0.000334
+beta LF: cross ICA+proxy lower limit minus limit, K8	0.000244
+beta LF: trial shuffle ICA+proxy lower limit minus limit, K16	-0.001492
+beta LF: planted low, cross, lower limit minus limit	0.000014
+beta LF: trial shuffle v2 full calibrated excess	0.010810
+beta LF: trial shuffle v2 encret calibrated excess	0.010830
+beta LF: trial shuffle v2_emgadj full calibrated excess	0.005940
+beta LF: trial shuffle v2_emgadj encret calibrated excess	0.006530
+beta HF: cross ICA+proxy lower limit minus limit, K16	-0.002373
+beta HF: cross ICA+proxy lower limit minus limit, K8	-0.002643
+beta HF: trial shuffle ICA+proxy lower limit minus limit, K16	-0.002644
+beta HF: planted low, cross, lower limit minus limit	0.001637
+beta HF: trial shuffle v2 full calibrated excess	0.001690
+beta HF: trial shuffle v2 encret calibrated excess	0.001620
+beta HF: trial shuffle v2_emgadj full calibrated excess	0.000870
+beta HF: trial shuffle v2_emgadj encret calibrated excess	0.000750
+cross participant, real data: share of blocks with a partner block of the same length (symmetric_real_20261116_084503.log)	0.699319

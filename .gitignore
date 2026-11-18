@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+build/
+*.egg-info/
+
+# Raw data, intermediate files and outputs of new runs (large, or reproducible)
+/data/
+/derivatives/
+/logs/
+/regenerated/
+/tmp/
+/results/*
+!/results/tables/
+!/results/figure_source_data/
+!/results/validation/
+
+# Local configuration (contains paths of this computer)
+config/local_paths.json
+
+# Never commit recordings or large binaries
+*.set
+*.fdt
+*.edf
+*.bdf
+*.fif
+*.npz
+*.zip

@@ -1,0 +1,10 @@
+sub	eeg	heart	brain
+sub-124	theta	heart 0.261	brain 0.240
+sub-124	alpha	heart 0.261	brain 0.221
+sub-124	beta	heart 0.261	brain 0.144
+sub-125	theta	heart 0.422	brain 0.186
+sub-125	alpha	heart 0.422	brain 0.191
+sub-125	beta	heart 0.422	brain 0.158
+sub-128	theta	heart 0.286	brain 0.136
+sub-128	alpha	heart 0.286	brain 0.136
+sub-128	beta	heart 0.286	brain 0.162

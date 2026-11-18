@@ -1,0 +1,19 @@
+eeg	status	n_block_rows
+alpha	fewer than 10 trials	18
+alpha	more than 10% of NN intervals marked	45
+alpha	more than 10% of envelope samples interpolated	33
+alpha	no other block of the same length	99
+alpha	recording discontinuity inside block	1
+alpha	retained	1996
+beta	fewer than 10 trials	18
+beta	more than 10% of NN intervals marked	45
+beta	more than 10% of envelope samples interpolated	41
+beta	no other block of the same length	98
+beta	recording discontinuity inside block	1
+beta	retained	1989
+theta	fewer than 10 trials	18
+theta	more than 10% of NN intervals marked	45
+theta	more than 10% of envelope samples interpolated	89
+theta	no other block of the same length	99
+theta	recording discontinuity inside block	1
+theta	retained	1940

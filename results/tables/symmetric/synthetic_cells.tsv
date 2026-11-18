@@ -1,0 +1,49 @@
+cohort	null	variant	k_used	eeg	band	n	mean	ci95_low	ci95_high	cohen_d	p	p_holm	upper_bias_limit	detected_by_rule
+independent	cross	full	all	theta	LF	122	-0.00043	-0.0031	0.00224	-0.02868	0.75192	1.0		
+independent	cross	full	all	theta	HF	122	0.0003	-0.00113	0.00174	0.03809	0.67473	1.0		
+independent	cross	full	all	alpha	LF	122	-0.00076	-0.00306	0.00155	-0.05869	0.51808	1.0		
+independent	cross	full	all	alpha	HF	122	0.00024	-0.00124	0.00173	0.02957	0.74456	1.0		
+independent	cross	full	all	beta	LF	122	0.00183	-0.00053	0.00419	0.13897	0.12739	0.76436		
+independent	cross	full	all	beta	HF	122	0.00054	-0.00085	0.00193	0.06994	0.44135	1.0		
+matched	cross	full	all	theta	LF	122	0.00107	-0.00127	0.00341	0.08167	0.36884	1.0		
+matched	cross	full	all	theta	HF	122	0.00034	-0.00105	0.00172	0.04368	0.63038	1.0		
+matched	cross	full	all	alpha	LF	122	0.00184	-0.00037	0.00405	0.14951	0.10125	0.60752		
+matched	cross	full	all	alpha	HF	122	-0.00067	-0.00236	0.00103	-0.0703	0.43899	1.0		
+matched	cross	full	all	beta	LF	122	0.00063	-0.0019	0.00316	0.04475	0.62198	1.0		
+matched	cross	full	all	beta	HF	122	0.00037	-0.00108	0.00181	0.0452	0.61852	1.0		
+plant_low	shuffle	full	all	theta	LF	122	0.00658	0.00424	0.00891	0.50494	0.0	0.0	0.00284	1
+plant_low	shuffle	full	all	theta	HF	122	0.00416	0.00262	0.0057	0.48453	0.0	0.0	0.00197	1
+plant_low	shuffle	full	all	alpha	LF	122	0.00649	0.00408	0.0089	0.48216	0.0	0.0	0.00466	0
+plant_low	shuffle	full	all	alpha	HF	122	0.0042	0.00249	0.0059	0.44135	0.0	1e-05	0.00203	1
+plant_low	shuffle	full	all	beta	LF	122	0.00681	0.00407	0.00954	0.44602	0.0	1e-05	0.00462	0
+plant_low	shuffle	full	all	beta	HF	122	0.00491	0.00341	0.00642	0.58624	0.0	0.0	0.00205	1
+plant_low	cross	full	all	theta	LF	122	0.00647	0.00422	0.00871	0.5158	0.0	0.0	0.00341	1
+plant_low	cross	full	all	theta	HF	122	0.00442	0.00293	0.00591	0.53123	0.0	0.0	0.00174	1
+plant_low	cross	full	all	alpha	LF	122	0.00688	0.00451	0.00925	0.52074	0.0	0.0	0.00405	1
+plant_low	cross	full	all	alpha	HF	122	0.00395	0.00237	0.00552	0.44951	0.0	0.0	0.00173	1
+plant_low	cross	full	all	beta	LF	122	0.00677	0.0042	0.00934	0.4722	0.0	0.0	0.00419	1
+plant_low	cross	full	all	beta	HF	122	0.00501	0.00357	0.00645	0.6238	0.0	0.0	0.00193	1
+plant_mid	shuffle	full	all	theta	LF	122	0.01338	0.01065	0.01611	0.87724	0.0	0.0	0.00284	1
+plant_mid	shuffle	full	all	theta	HF	122	0.00748	0.00593	0.00903	0.86621	0.0	0.0	0.00197	1
+plant_mid	shuffle	full	all	alpha	LF	122	0.01454	0.01194	0.01714	1.00266	0.0	0.0	0.00466	1
+plant_mid	shuffle	full	all	alpha	HF	122	0.00738	0.00572	0.00904	0.79794	0.0	0.0	0.00203	1
+plant_mid	shuffle	full	all	beta	LF	122	0.01309	0.01041	0.01578	0.87393	0.0	0.0	0.00462	1
+plant_mid	shuffle	full	all	beta	HF	122	0.00969	0.00801	0.01137	1.03465	0.0	0.0	0.00205	1
+plant_mid	cross	full	all	theta	LF	122	0.01362	0.01087	0.01637	0.8869	0.0	0.0	0.00341	1
+plant_mid	cross	full	all	theta	HF	122	0.00748	0.00586	0.00909	0.83099	0.0	0.0	0.00174	1
+plant_mid	cross	full	all	alpha	LF	122	0.01385	0.01131	0.01639	0.97671	0.0	0.0	0.00405	1
+plant_mid	cross	full	all	alpha	HF	122	0.00782	0.00621	0.00943	0.86917	0.0	0.0	0.00173	1
+plant_mid	cross	full	all	beta	LF	122	0.0132	0.01071	0.01568	0.95357	0.0	0.0	0.00419	1
+plant_mid	cross	full	all	beta	HF	122	0.00915	0.00747	0.01083	0.977	0.0	0.0	0.00193	1
+plant_high	shuffle	full	all	theta	LF	122	0.02915	0.02669	0.03161	2.12339	0.0	0.0	0.00284	1
+plant_high	shuffle	full	all	theta	HF	122	0.01525	0.0135	0.017	1.56452	0.0	0.0	0.00197	1
+plant_high	shuffle	full	all	alpha	LF	122	0.02846	0.02596	0.03096	2.03964	0.0	0.0	0.00466	1
+plant_high	shuffle	full	all	alpha	HF	122	0.01463	0.01293	0.01634	1.53787	0.0	0.0	0.00203	1
+plant_high	shuffle	full	all	beta	LF	122	0.0254	0.02264	0.02816	1.65019	0.0	0.0	0.00462	1
+plant_high	shuffle	full	all	beta	HF	122	0.01431	0.01276	0.01585	1.66156	0.0	0.0	0.00205	1
+plant_high	cross	full	all	theta	LF	122	0.02939	0.02691	0.03188	2.11988	0.0	0.0	0.00341	1
+plant_high	cross	full	all	theta	HF	122	0.01435	0.01278	0.01592	1.64043	0.0	0.0	0.00174	1
+plant_high	cross	full	all	alpha	LF	122	0.02706	0.02466	0.02947	2.02043	0.0	0.0	0.00405	1
+plant_high	cross	full	all	alpha	HF	122	0.01331	0.01166	0.01495	1.45208	0.0	0.0	0.00173	1
+plant_high	cross	full	all	beta	LF	122	0.02525	0.02248	0.02801	1.63757	0.0	0.0	0.00419	1
+plant_high	cross	full	all	beta	HF	122	0.0146	0.01308	0.01611	1.72785	0.0	0.0	0.00193	1

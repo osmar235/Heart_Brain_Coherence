@@ -1,0 +1,35 @@
+{
+  "upload_type": "software",
+  "title": "One Dataset, Three Verdicts: code and results for heart and brain wavelet coherence",
+  "version": "3.1.0",
+  "creators": [
+    {
+      "name": "Pinto Neto, Osmar",
+      "affiliation": "Department of Kinesiology, California State University San Marcos"
+    }
+  ],
+  "description": "<p>Analysis code, result tables and figures of the study \"One Dataset, Three Verdicts: Why Positive and Negative Controls Matter for Brain and Heart Coherence\" (manuscript in preparation, not peer reviewed). The study reanalyzes electrocardiography and EEG from 122 adults performing an adaptive digit span task (OpenNeuro ds008302) and tests slow wavelet coherence between heart period and EEG amplitude envelopes with negative controls (synthetic participants without coupling, surrogate nulls, artifact controls) and positive controls (planted coupling).</p><p>Code: MIT license. Manuscript, documents, result tables and figures: CC BY 4.0. The raw recordings are not included.</p>",
+  "license": "mit",
+  "keywords": [
+    "wavelet coherence",
+    "heart rate variability",
+    "EEG",
+    "surrogate data",
+    "negative controls",
+    "positive controls"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds008302.v1.0.0",
+      "relation": "isDerivedFrom"
+    },
+    {
+      "identifier": "10.1016/j.cmpb.2026.109657",
+      "relation": "references"
+    },
+    {
+      "identifier": "https://github.com/osmar235/EMG_Simulator_WaveletCoherence/tree/v3.3.1",
+      "relation": "requires"
+    }
+  ]
+}

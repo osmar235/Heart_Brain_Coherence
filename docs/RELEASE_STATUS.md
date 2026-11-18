@@ -1,13 +1,13 @@
 # RELEASE STATUS
 
-Built 2026-11-17 17:05 by `hb.build_release` with Python 3.14.3 on Windows 11.
+Built 2026-11-17 18:12 by `hb.build_release` with Python 3.14.3 on Windows 11.
 
 **Automated verification: PASSED.** All checks below passed in the environment that built the release.
 
 | Check | Result | Detail |
 | --- | --- | --- |
 | Required files | pass | all present |
-| Checksums | pass | 418 files listed |
+| Checksums | pass | 419 files listed |
 | Privacy scan | pass | none found |
 | No raw data or large files | pass | total 2.8 MB |
 | Portable paths | pass | no fixed drive paths in code, launchers or configuration |

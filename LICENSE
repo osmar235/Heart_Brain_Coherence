@@ -24,8 +24,8 @@ SOFTWARE.
 Scope: this license covers the code of this repository (code/, scripts/, examples/ and the
 configuration files). The manuscript, documents, result tables, figure source
 data and figures are licensed under CC BY 4.0 (see LICENSE-CC-BY-4.0.md).
-code/src/hb/vendor/emgsim_v3_3_0/functions.py is a copy of version 3.3.0 of the
-functions of the EMG simulation framework (Pinto Neto et al., Computer Methods and
+code/src/hb/vendor/emgsim_v3_3_0/functions.py is a byte identical copy of
+functions.py (version string 3.3.0) of release v3.3.1 of the EMG simulation framework (Pinto Neto et al., Computer Methods and
 Programs in Biomedicine 2027;288:109657), distributed under the MIT license of
 https://github.com/osmar235/EMG_Simulator_WaveletCoherence (Copyright (c) 2025
 osmar235; Zenodo doi:10.5281/zenodo.19703513).

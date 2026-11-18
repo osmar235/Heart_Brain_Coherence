@@ -30,7 +30,7 @@ Main modules in `code/src/hb/`:
 | `hbcoh` | Heart period and beat density series, EEG band envelopes, Morlet wavelet coherence on a common 4 Hz timebase, band summaries inside the cone of influence |
 | `trial_shuffle`, `symmetric_tests` | Surrogate nulls (trial shuffle, cross participant) and planted coupling (positive controls) |
 | `null_benchmark`, `null_calibration` | Synthetic participants without coupling, on the real trial timing, and bias limits |
-| `vendor/emgsim_v3_3_0` | The wavelet functions (version 3.3.0) of our EMG simulation framework, https://github.com/osmar235/EMG_Simulator_WaveletCoherence, copied unmodified |
+| `vendor/emgsim_v3_3_0` | The wavelet functions of our EMG simulation framework (https://github.com/osmar235/EMG_Simulator_WaveletCoherence, release v3.3.1), copied unmodified |
 
 ## Reproduce the results (Windows)
 
